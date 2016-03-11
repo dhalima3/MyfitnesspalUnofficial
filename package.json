@@ -1,0 +1,23 @@
+{
+  "name": "MyfitnesspalUnofficial",
+  "version": "1.0.0",
+  "description": "Unofficial Myfitnesspal desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhalima3/MyfitnesspalUnofficial.git"
+  },
+  "author": "Daryl Halima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhalima3/MyfitnesspalUnofficial/issues"
+  },
+  "homepage": "https://github.com/dhalima3/MyfitnesspalUnofficial",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.10"
+  }
+}
